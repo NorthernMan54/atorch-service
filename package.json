@@ -2,7 +2,7 @@
   "displayName": "ATorch Service",
   "name": "atorch-service",
   "version": "0.0.2",
-  "description": "",
+  "description": "Headless interface for exposing ATorch Bluetooth devices.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "debug": "4.1.x",
-    "lodash-es": "^4.17.15",
+    "lodash": "^4.17.20",
     "node-web-bluetooth": "^1.2.0"
   },
   "devDependencies": {
